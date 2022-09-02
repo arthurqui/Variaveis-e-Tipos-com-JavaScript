@@ -2,8 +2,8 @@
 <img src="https://hermes.digitalinnovation.one/courses/cover/881a50c9-351e-4cf0-86d4-3ca6ac4a7d22_cover.png" height="150" >
 </p><br>
 <p align="center">
-<h2> Curso de Sintaxe e Operadores JavaScript disponibilizado pela Digital Inovation One.</h2>
-<h4> Neste curso você terá uma introdução aos principais operadores para manipular valores no seu código.</h4>
+<h2> Curso de Variáveis e Tipos com JavaScript disponibilizado pela Digital Inovation One.</h2>
+<h4> Neste curso você irá se familiarizar com as estruturas de dados mais comuns do Javascript e entender algumas nuances entre elas.</h4>
 
 <h3> Todos os códigos feitos estarão commitados dentro deste repositório.</h3>
 <br>
