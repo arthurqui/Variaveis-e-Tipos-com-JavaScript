@@ -9,8 +9,8 @@
 <br>
 <h3> ⏰ Duração: 2h</h3>
 <h3> 🏅 Insignia:</h3>
-<a href="#"><img src="https://hermes.digitalinnovation.one/courses/badge/22efbe24-6719-4210-a850-935468e140d4.png" height="100"></a><br>
+<a href="#"><img src="https://hermes.digitalinnovation.one/courses/badge/881a50c9-351e-4cf0-86d4-3ca6ac4a7d22.png" height="100"></a><br>
 <h3> 🧾 Certificado:</h3>
-<a href="https://www.dio.me/certificate/4AE86B11/share" target="_blank"><img src="https://hermes.digitalinnovation.one/certificates/cover/4AE86B11.jpg" height="400"></a>
+<a href="https://www.dio.me/certificate/E11BE5A3/share" target="_blank"><img src="https://hermes.digitalinnovation.one/certificates/cover/E11BE5A3.jpg" height="400"></a>
 
 </p>
